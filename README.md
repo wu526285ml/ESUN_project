@@ -1,4 +1,4 @@
-# ESUN_project
+# stock_breach_project
 NTU Fintech text mining and machine learning
 
 分為兩個檔案：
